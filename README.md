@@ -1,5 +1,5 @@
 # documentation
-open documentation for public repositories.
+open source documentation for public repositories.
 
 This repo contains all documentation usefull for the repos:
 - **library**;
